@@ -24,6 +24,7 @@ Awesome-LLM-KV-Cache: A curated list of [📙Awesome LLM KV Cache Papers with Co
 * 📖[KV Cache Compression](#KV-Cache-Compression)🔥🔥
 * 📖[KV Cache Merge](#KV-Cache-Merge)🔥🔥
 * 📖[Budget Allocation](#Budget-Allocation)🔥
+* 📖[Query-Aware KV Retrieval](#Query-Aware-KV-Retrieval)🔥
 * 📖[Cross-Layer KV Cache Utilization](#Cross-Layer-KV-Cache-Utilization)🔥
 * 📖[KV Cache Quantization](#KV-Cache-Quantization)🔥
 * 📖[Low-Rank KV Cache Decomposition](#Low-Rank-KV-Cache-Decomposition)🔥
@@ -89,6 +90,15 @@ Awesome-LLM-KV-Cache: A curated list of [📙Awesome LLM KV Cache Papers with Co
 |2024.07| 🔥[**Ada-KV**] Ada-KV: Optimizing KV Cache Eviction by Adaptive Budget Allocation for Efficient LLM Inference|[[pdf]](https://arxiv.org/abs/2407.11550) | | ⭐️⭐️⭐️ |Head-wise budget allocation|
 |2024.07|  RazorAttention: Efficient KV Cache Compression Through Retrieval Heads|[[pdf]](https://arxiv.org/pdf/2407.15891) | | ⭐️ |
 
+### Query-Aware KV Retrieval ([©️back👆🏻](#paperlist))
+<div id="Query-Aware-KV-Retrieval"></div>
+
+|Date|Title|Paper|Code|Recom|Comment|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|2024.09|  SparQ Attention: Bandwidth-Efficient LLM Inference|[[pdf]](https://arxiv.org/abs/2312.04985) | | ⭐️ |
+|2025.06|  RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference|[[pdf]](https://arxiv.org/abs/2505.02922) | | ⭐️ |
+|2025.12|  FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference|[[pdf]](https://arxiv.org/abs/2505.13109) | | ⭐️ |
+
 ### Cross-Layer KV Cache Utilization ([©️back👆🏻](#paperlist))
 <div id="Cross-Layer-KV-Cache-Utilization"></div>
 
@@ -116,13 +126,15 @@ Awesome-LLM-KV-Cache: A curated list of [📙Awesome LLM KV Cache Papers with Co
 |2024.07| [**PQCache**] PQCache: Product Quantization-based KVCache for Long Context LLM Inference|[[pdf]](https://arxiv.org/abs/2407.12820) | | ⭐️ ||
 
 
-https://arxiv.org/abs/2402.12065
 ### Evaluation ([©️back👆🏻](#paperlist))  
 <div id="Evaluation"></div>  
 
 |Date|Title|Paper|Code|Recom|Comment|
 |:---:|:---:|:---:|:---:|:---:|:---:|
 |2024.07| 🔥[Benchmark] KV Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches|[[pdf]](https://arxiv.org/abs/2407.01527) | | ⭐️ ||
+|2024.08| 🔥[Benchmark] RULER: What's the Real Context Size of Your Long-Context Language Models?|[[pdf]](https://arxiv.org/abs/2404.06654) | | ⭐️ ||
+|2025.01| 🔥[Benchmark] LongGenBench: Benchmarking Long-Form Generation in Long Context LLMs|[[pdf]](https://arxiv.org/abs/2409.02076) | | ⭐️ ||
+|2025.03| 🔥[Benchmark] SCBench: a KVcache-centric analysis of long-context methods|[[pdf]](https://arxiv.org/abs/2412.10319) | | ⭐️ ||
 
 ### Low Rank KV Cache Decomposition ([©️back👆🏻](#paperlist))  
 <div id="Low-Rank-KV-Cache-Decomposition"></div>  
