@@ -95,9 +95,10 @@ Awesome-LLM-KV-Cache: A curated list of [📙Awesome LLM KV Cache Papers with Co
 
 |Date|Title|Paper|Code|Recom|Comment|
 |:---:|:---:|:---:|:---:|:---:|:---:|
-|2024.09|  SparQ Attention: Bandwidth-Efficient LLM Inference|[[pdf]](https://arxiv.org/abs/2312.04985) | | ⭐️ |
-|2025.06|  RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference|[[pdf]](https://arxiv.org/abs/2505.02922) | | ⭐️ |
-|2025.12|  FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference|[[pdf]](https://arxiv.org/abs/2505.13109) | | ⭐️ |
+|2024.09|  SparQ Attention: Bandwidth-Efficient LLM Inference|[[pdf]](https://arxiv.org/abs/2312.04985) | [sparq](https://github.com/gilshm/sparq) | ⭐️⭐️ ||
+|2024.09| TidalDecode: Fast and Accurate LLM Decoding with Position Persistent Sparse Attention |[[pdf]](https://arxiv.org/pdf/2410.05076) | [TidalDecode](https://github.com/DerrickYLJ/TidalDecode) | ⭐️⭐️ ||
+|2025.06|  RetroInfer: A Vector-Storage Approach for Scalable Long-Context LLM Inference|[[pdf]](https://arxiv.org/abs/2505.02922) | [RetrievalAttention](https://github.com/microsoft/RetrievalAttention) | ⭐️⭐️ ||
+|2025.12|  FreeKV: Boosting KV Cache Retrieval for Efficient LLM Inference|[[pdf]](https://arxiv.org/abs/2505.13109) | | ⭐️ ||
 
 ### Cross-Layer KV Cache Utilization ([©️back👆🏻](#paperlist))
 <div id="Cross-Layer-KV-Cache-Utilization"></div>
